@@ -13,9 +13,11 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@200;400&display=swap');
 
- h3 {
-   color: white;
- }
+.Text {
+  font-size:larger;
+  color:white;
+  text-align: left;
+}
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
